@@ -1,0 +1,15 @@
+#box1 {
+    width: 200px;
+    background-color:
+}
+
+* {
+    -webkit-box-sizing: border-box;
+}
+
+#box2 {
+    width: 200px;
+    height: 200px;
+    background-color: #0dd;
+    float: left;
+}

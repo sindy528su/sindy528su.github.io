@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+.title {
+    color: red;
+}
+
+.title2 {
+    color: purple;
+}
+
+#post-1 {
+    font-size: 25px;
+}

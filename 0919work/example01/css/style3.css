@@ -1,0 +1,21 @@
+.header {
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    padding: 5px;
+}
+
+.nav {
+    background-color: ddd;
+    width: 100px;
+    padding: 5px;
+}
+
+.section {
+    background-color: #0dd;
+}
+
+.footer {
+    background-color: #dd0;
+    clear: both;
+}

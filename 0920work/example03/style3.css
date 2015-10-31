@@ -1,0 +1,18 @@
+#box1 {
+    background-color: #dd0;
+    height: 200px;
+}
+
+#box2 {
+    background-color: #0d0;
+    height: 200px;
+}
+
+#box3 {
+    background-color: #d0d;
+    height: 200px;
+}
+
+header {
+    background-color: #ddd;
+}

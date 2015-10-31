@@ -1,0 +1,30 @@
+#container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.header {
+    background-color: #009933;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.nav {
+    background-color: #E6E6E3;
+    width: 100px;
+    padding: 10px;
+    float: left;
+}
+
+.section {
+    width: 350px;
+    background-color: #00FF00;
+    padding: 10px;
+    float: left;
+}
+
+.footer {
+    background-color: #999999;
+    clear: both;
+}

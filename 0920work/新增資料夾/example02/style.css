@@ -1,0 +1,33 @@
+#container {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #ddd;
+}
+
+#primary {
+    width: 300px;
+    background-color: #0dd;
+    padding: 5px;
+    float: left;
+}
+
+#main {
+    width: 300px;
+    background-color: #0dd;
+    padding: 5px;
+    float: left;
+}
+
+#secondary {
+    width: 200px;
+    background-color: #dde;
+    padding: 5px;
+    float: left;
+}
+
+#footer {
+    width: 200px;
+    background-color: #dd0;
+    padding: 5px;
+    float: left;
+}

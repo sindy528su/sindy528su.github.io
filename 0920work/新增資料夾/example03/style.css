@@ -1,0 +1,22 @@
+#box1 {
+    background-color: #666666;
+    height: 200px;
+}
+
+#box2 {
+    background-color: #999999;
+    height: 200px;
+}
+
+#box3 {
+    background-color: #333333;
+    height: 200px;
+}
+
+.col3 {
+    background: #333333;
+}
+
+.col4 {
+    background: #999999;
+}

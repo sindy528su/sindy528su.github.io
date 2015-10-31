@@ -1,0 +1,44 @@
+.nav a {
+    font-color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 14px 10px;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-image: url('../images/Kyoto.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #18bc9c;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Shift', sans-serif;
+}
+
+.jumbotron p {
+    color: white;
+    font-size: 20px;
+}
+
+.learn-more {
+    background-color: #ddd;
+    font-size: 14px;
+}
+
+.neighborhood-guides {
+    background-color: #ffffff;
+}
